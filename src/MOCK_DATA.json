@@ -1,5 +1,5 @@
 [
-    { "name": "Web Design", "price": 38.65, "class": 20, "projects": 17, "hours": 3, "img": "https://softclever.com/wp-content/uploads/2019/05/sc_web_design_course_thumb.jpg" },
+    { "name": "Web Design", "price": 38.65, "class": 20, "projects": 17, "hours": 3, "img": "https://img.freepik.com/free-vector/web-design-landing-page-template_52683-18357.jpg?size=626&ext=jpg" },
     { "name": "Web Development", "price": 46.61, "class": 25, "projects": 25, "hours": 3, "img": "https://2.bp.blogspot.com/-rS1H8Wxnne8/XH_MCH4kDMI/AAAAAAAANZY/XKyzFcmerw8lqZ-IQJYVjOOytJD6tjcpgCLcBGAs/s400/The%2BWEb%2BDeveloper%2BBootcamp.png" },
     { "name": "Graphic Design", "price": 19.90, "class": 15, "projects": 12, "hours": 2, "img": "https://img.pngio.com/graphic-design-tools-png-png-image-design-tool-png-500_340.png" },
     { "name": "Programming Language: C", "price": 19.84, "class": 13, "projects": 9, "hours": 2, "img": "https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg" },

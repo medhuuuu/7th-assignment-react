@@ -11,8 +11,8 @@ const Menu = () => {
             </Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="/card">Courses</Nav.Link>
-                <Nav.Link href="/cart">Order Review</Nav.Link>
+                <Nav.Link href="../Card/Card.js">Courses</Nav.Link>
+                <Nav.Link href="../Cart/Cart.js">Order Review</Nav.Link>
                 <Nav.Link href="/sign-in"><Button variant="warning">Sign-in <FontAwesomeIcon icon={faArrowUp} /></Button></Nav.Link>
             </Nav>
             <Form inline>

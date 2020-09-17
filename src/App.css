@@ -1,0 +1,14 @@
+.cart-review {
+    display: inline-block;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+    width: 60%;
+    margin: 20px;
+    border-radius: 5px;
+    padding-top: 70px;
+}
+
+.last-part {
+    margin-left: 350px;
+    align-items: center;
+}
