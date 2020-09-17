@@ -13,7 +13,7 @@
     { "name": "Human Resources and Management", "price": 10.89, "class": 5, "projects": 3, "hours": 2, "img": "https://www.techfunnel.com/wp-content/uploads/2018/04/Crucial-Changes-in-Human-Resource-Management-due-to-Technology.jpg" },
     { "name": "Food Nutrition and Heath", "price": 35.60, "class": 21, "projects": 5, "hours": 2, "img": "https://images.theconversation.com/files/253287/original/file-20190110-43538-fvltd2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip" },
     { "name": "Career Success", "price": 11.37, "class": 7, "projects": 1, "hours": 1, "img": "https://cdn.educba.com/academy/wp-content/uploads/2015/12/Career-Success-1.jpg" },
-    { "name": "Positve Psychology anf Mental Health", "price": 12.30, "class": 7, "projects": 7, "hours": 1, "img": "https://healthnwellness.b-cdn.net/wp-content/uploads/2019/11/Connection.jpg" },
+    { "name": "Positve Psychology and Mental Health", "price": 12.30, "class": 7, "projects": 7, "hours": 1, "img": "https://healthnwellness.b-cdn.net/wp-content/uploads/2019/11/Connection.jpg" },
     { "name": "Influencing People", "price": 10.77, "class": 8, "projects": 5, "hours": 1, "img": "https://3.bp.blogspot.com/-PMskemfT5mk/VWdY_il7fqI/AAAAAAAAADM/RKj2HEn94lc/s1600/influencing-people1.jpg" },
     { "name": "Personality Types at Work", "price": 11.70, "class": 5, "projects": 1, "hours": 2, "img": "https://cdn-blog.elorus.com/english/blog/wp-content/uploads/2018/04/managing-different-personality-types-in-the-workplace.jpg" },
     { "name": "Cyber Security", "price": 36.20, "class": 16, "projects": 12, "hours": 2, "img": "https://cdn-res.keymedia.com/cms/images/us/036/0248_637317913147707069.jpg" },

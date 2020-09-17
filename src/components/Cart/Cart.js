@@ -10,7 +10,7 @@ const Cart = (props) => {
         <div className="d-block cart-part">
             <h1>Order Summary</h1>
             <h5>Total Courses: {items.length}</h5>
-            <p>Total Price: ${total}</p>
+            <p>Total Price: ${Math.round(total)}</p>
             <Button  variant="warning">Confirm</Button>
         </div>
     );
