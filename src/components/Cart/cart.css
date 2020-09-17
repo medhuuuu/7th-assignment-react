@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: rgb(0, 123, 255);
+}
+
+.cart-part {
+    color: darkgray;
+    text-align: center;
+    padding-bottom: 100px;
+}

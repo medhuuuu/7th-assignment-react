@@ -1,0 +1,18 @@
+.main {
+    background-color: azure;
+}
+
+.first-line {
+    color: #FD511A;
+    font-family: poppins;
+    font-size: 20px;
+}
+
+span {
+    color: rgb(255, 196, 0);
+}
+
+.written-slide {
+    margin: auto;
+    text-align: center;
+}
